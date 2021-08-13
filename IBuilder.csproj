@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Title>IBuilder</Title>
+    <Authors>ac682</Authors>
+    <Description>Add IBuilder interface.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageId>IBuilder</PackageId>
+    <RepositoryUrl>https://github.com/ac682/IBuilder</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/ac682/IBuilder</PackageProjectUrl>
+    <PackageTags>builder</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
