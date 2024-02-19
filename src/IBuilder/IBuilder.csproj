@@ -1,15 +1,18 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <Title>IBuilder</Title>
-    <Authors>ac682</Authors>
+    <Authors>Dearain</Authors>
     <Description>Add IBuilder interface.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageId>IBuilder</PackageId>
-    <RepositoryUrl>https://github.com/ac682/IBuilder</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/ac682/IBuilder</PackageProjectUrl>
-    <PackageTags>builder</PackageTags>
+    <RepositoryUrl>https://github.com/d3ar1n/IBuilder</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/d3ar1n/IBuilder</PackageProjectUrl>
+    <PackageTags>builder pattern</PackageTags>
+    <LangVersion>default</LangVersion>
+    <Version>1.1.0</Version>
+    <Company />
   </PropertyGroup>
 
   <ItemGroup>
